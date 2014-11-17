@@ -3,24 +3,14 @@
 
  Luo markdown-tiedosto ryhmänne Github repoon (katso toimintaohje sivun lopusta), jossa pohdit seuraavia aiheita valitsemaasi dokumenttiin liittyen:
 (johdanto)
-
-    mikä projekti?
 	
 	UCOT -sovellusprojekti - Vaatimusmärittely
 	
-    lukijakunta, kenelle dokumentti on tarkoitettu?
-	
-	Sovelluskehittäjille 
-	
-    tilanne?
+	Tarkoitettu sovelluksen kehittäjille 
 	
 	Jyväskylän tietotekniikan laitos tarvitsee ohjelman, joka muodostaa analyysivaiheen olioluokkia käyttötapauskuvauksista.
-	
-    motivaatio, miksi dokumentti on luotu?
-	
-	Ohjelman yleisen toiminnan kuvaaminen ja esitellä ohjelmalle asetettavat vaatimukset sekä esimerkkejä käyttötapauksista.
-	
-    dokumentin rakenne, millainen se on esim. verrattuna projektissa käytettävään malliin? Kts. myös Wikipediasta löytyvä runko.
+		
+	Dokumentin tarkoituksena on ohjelman yleisen toiminnan kuvaaminen ja esitellä ohjelmalle asetettavat vaatimukset sekä esimerkkejä käyttötapauksista.
 	
 	Dokumentin rakenne:
 		Kansi
@@ -89,19 +79,23 @@
 		5. Ohjelma tallentaa käsitemallin.
 
 (järjestelmän yleisrakenne)
-
-    MITÄ KAAVIOTEKNIIKOITA KÄYTETÄÄN? MIKSI?
 	
+	Vaatimusten listaamiseen on käytetty kaavioita, joissa tuodaan esille tunniste, tärkeys, (edellä mainittu) käyttötapaus ja vaatimus.
+	Kaavioita on käytetty selkeyttämään informaatiota. 
+	Lisäksi on tyhjä taulukko vaatimusten toteutumista varten.
 	
-
 (funktionaaliset & ei-funktionaaliset vaatimukset)
-
-    esitetäänkö listauksena?
 	
+	Vaatimukset on lajiteltu käyttöalueiden mukaisesti:
+		1. Syöterajapinta
+		2. Heuristiikkarajapinta
+		3. Tulosterajapinta
+		4. Käyttöliittymä
+		5. Iteraatioille vaatimukset
 	
+		Y1.1 - Y4.20 ja I1.1 - I1.5 (jotka sisältävät tietyt Yx.x -vaatimukset)
 	
-    tunnistetiedot? numeroitu?
-    jäljitettävyys? mitattavuus? (Miten voidaan jälkikäteen todentaa, että vaatimukset on myös toteutettu, kuten suunniteltu?)
+		Iteraatio -vaatimusten alla on kaavio vaatimusten toteutumisen seurannasta.
 
 (miltä se näyttää)
 
@@ -111,10 +105,12 @@
     
 
 (prosessimalli)
-
-    onko kuvattu? voi olla myös erillisessä projektisuunnitelmadokumentissa
-    resurssit? budjetti?
-    riskianalyysi?
+	
+	Ei ollut kuvattu ainakaan tässä kyseisessä dokumentissa.
+		
+	Resurssien ja budjetin kuvaus puuttui. 
+	
+	Dokumentti ei sisällä riskianalyysiä. 
 
 (johtopäätökset, oma mielipide)
 
