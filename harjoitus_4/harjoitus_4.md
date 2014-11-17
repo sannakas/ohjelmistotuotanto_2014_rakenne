@@ -92,16 +92,28 @@
 
     MITÄ KAAVIOTEKNIIKOITA KÄYTETÄÄN? MIKSI?
 	
+	Vaatimusten listaamiseen on käytetty kaavioita, joissa tuodaan esille tunniste, tärkeys, (edellä mainittu) käyttötapaus ja vaatimus.
+	Kaavioita on käytetty selkeyttämään informaatiota. 
+	Lisäksi on tyhjä taulukko vaatimusten toteutumista varten.
 	
-
 (funktionaaliset & ei-funktionaaliset vaatimukset)
 
     esitetäänkö listauksena?
 	
-	
+	Vaatimukset on lajiteltu käyttöalueiden mukaisesti:
+		1. Syöterajapinta
+		2. Heuristiikkarajapinta
+		3. Tulosterajapinta
+		4. Käyttöliittymä
+		5. Iteraatioille vaatimukset
 	
     tunnistetiedot? numeroitu?
+	
+		Y1.1 - Y4.20 ja I1.1 - I1.5 (jotka sisältävät tietyt Yx.x -vaatimukset)
+		
     jäljitettävyys? mitattavuus? (Miten voidaan jälkikäteen todentaa, että vaatimukset on myös toteutettu, kuten suunniteltu?)
+	
+		Iteraatio -vaatimusten alla on kaavio vaatimusten toteutumisen seurannasta.
 
 (miltä se näyttää)
 
@@ -112,8 +124,16 @@
 (prosessimalli)
 
     onko kuvattu? voi olla myös erillisessä projektisuunnitelmadokumentissa
+	
+	Ei ollut kuvattu ainakaan tässä kyseisessä dokumentissa.
+	
     resurssit? budjetti?
+	
+	Resurssien ja budjetin kuvaus puuttui. 
+	
     riskianalyysi?
+	
+	Dokumentti ei sisällä riskianalyysiä. 
 
 (johtopäätökset, oma mielipide)
 
