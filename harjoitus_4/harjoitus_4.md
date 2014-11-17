@@ -6,16 +6,35 @@
 
     mikä projekti?
     lukijakunta, kenelle dokumentti on tarkoitettu?
-    tilanne?
+    tilanne? 	Vaatimusmäärittely on luotu 
     motivaatio, miksi dokumentti on luotu?
     dokumentin rakenne, millainen se on esim. verrattuna projektissa käytettävään malliin? Kts. myös Wikipediasta löytyvä runko.
 
 (käyttötapaukset)
 
-    mitä sillä voi tehdä?
-    käyttötapauskaavio(t)?
-    kuinka yksityiskohtaisesti kuvattu?
-    skenaariot? tarinat?
+    Ohjelman tarkoituksena on tukea olioanalyysin tekijää vaatimusmäärittelyjen tulkitsemisessa. Ohjelman 
+	toiminta aloitetaan lukemalla vaatimusmäärittely ohjelman käsiteltäväksi. Vaatimusmäärittelystä erotellaan
+	tarvittuja tietoja arviointimenetelmien perusteella. Analyysimallia voi muokata,  ja mallin ollessa valmis,
+	sen voi tallentaa.
+	
+    Dokumentissa ei ole määritelty käyttötapauskaavioita
+	
+    Käyttötapaukset kuvattu sanallisesti
+	
+    Käyttötapaus esimerkki:
+		1. Käyttäjä kirjoittaa käyttötapauksen (Kirjoita käyttötapaus).
+		2. Järjestelmä lukee käyttötapauksen.
+		3. Järjestelmä tuottaa oliokuvauksen.
+		4. Käyttäjä muokkaa oliokuvausta.
+		5. Järjestelmä tallentaa oliokuvauksen.
+		
+	Yleinen käyttötapaus:
+		1. Käyttäjä valitsee käyttötapauksen jäsennettäväksi (Valitse käyttöta
+		paus).
+		2. Ohjelma prosessoi käyttötapauksen (Prosessoi käyttötapaus)
+		3. Ohjelma esittää käsitemallin.
+		4. Käyttäjä muokkaa käsitemallia.
+		5. Ohjelma tallentaa käsitemallin.
 
 (järjestelmän yleisrakenne)
 
