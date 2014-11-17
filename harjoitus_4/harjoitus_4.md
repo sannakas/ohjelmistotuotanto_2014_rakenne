@@ -1,5 +1,6 @@
 ** Harjoitus **
 
+
  Luo markdown-tiedosto ryhmänne Github repoon (katso toimintaohje sivun lopusta), jossa pohdit seuraavia aiheita valitsemaasi dokumenttiin liittyen:
 (johdanto)
 
@@ -43,3 +44,6 @@
     mikä tekee hyvän dokumentin?
     onko tämä sellainen? miksi?
     kaavioiden käyttö: laatu? määrä? hyöty?
+
+
+
