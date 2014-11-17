@@ -5,11 +5,63 @@
 (johdanto)
 
     mikä projekti?
+	
+	UCOT -sovellusprojekti - Vaatimusmärittely
+	
     lukijakunta, kenelle dokumentti on tarkoitettu?
+	
+	Sovelluskehittäjille 
+	
     tilanne?
+	
+	Jyväskylän tietotekniikan laitos tarvitsee ohjelman, joka muodostaa analyysivaiheen olioluokkia käyttötapauskuvauksista.
+	
     motivaatio, miksi dokumentti on luotu?
+	
+	Ohjelman yleisen toiminnan kuvaaminen ja esitellä ohjelmalle asetettavat vaatimukset sekä esimerkkejä käyttötapauksista.
+	
     dokumentin rakenne, millainen se on esim. verrattuna projektissa käytettävään malliin? Kts. myös Wikipediasta löytyvä runko.
-
+	
+	Dokumentin rakenne:
+		Kansi
+		Tietoa dokumentista
+		Versiohistoria
+		Tietoa projektista
+		Sisällys
+		1. Johdanto 
+		2. Sovelluksen toiminta 
+		3. Käyttötapaukset 
+		4. Vaatimukset
+		Liitteet
+		Termit
+		
+	Oma dokumenttirakenne:
+	
+		Kansi
+		1. Johdanto
+		2. Käyttötapaukset
+		3. Järjestelmäarkkitehtuuri
+		4. Vaatimukset
+		5. Käyttöliittymä
+		6. Yhteenveto
+		
+	Wikipedian dokumenttirakenne:
+		
+		1. Johdanto
+		2. Yleiskuvaus
+		3. Tiedot ja tietokanta
+		4. Toiminnot
+		5. Ulkoiset liittymät
+		6. Muut ominaisuudet
+		7. Suunnittelurajoitteet
+		8. Hylätyt ratkaisuvaihtoehdot
+		9. Jatkokehitysajatuksia
+		Liitteet
+		
+	Valitsemamme vaatimusmäärittelyn rakenne on hyvin tiivistetysti ohjelman toiminnallisuudet, käyttötapaukset ja vaatimukset.
+	Kurssiprojektin dokumenttirakenne sisältää myös käyttötapaukset ja vaatimukset, mutta lisäksi järjestelmäarkkitehtuuri ja käyttöliittymä.
+	Wikipiedian dokumenttirakenne on todella laaja ja yleinen. 
+	
 (käyttötapaukset)
 
     mitä sillä voi tehdä?
@@ -20,10 +72,15 @@
 (järjestelmän yleisrakenne)
 
     MITÄ KAAVIOTEKNIIKOITA KÄYTETÄÄN? MIKSI?
+	
+	
 
 (funktionaaliset & ei-funktionaaliset vaatimukset)
 
     esitetäänkö listauksena?
+	
+	
+	
     tunnistetiedot? numeroitu?
     jäljitettävyys? mitattavuus? (Miten voidaan jälkikäteen todentaa, että vaatimukset on myös toteutettu, kuten suunniteltu?)
 
