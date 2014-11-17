@@ -1,8 +1,6 @@
-** Harjoitus **
+## Harjoitus ##
 
-
- Luo markdown-tiedosto ryhmänne Github repoon (katso toimintaohje sivun lopusta), jossa pohdit seuraavia aiheita valitsemaasi dokumenttiin liittyen:
-(johdanto)
+####johdanto####
 	
 UCOT -sovellusprojekti - Vaatimusmärittely
 	
@@ -50,7 +48,7 @@ Valitsemamme vaatimusmäärittelyn rakenne on hyvin tiivistetysti ohjelman toimi
 Kurssiprojektin dokumenttirakenne sisältää myös käyttötapaukset ja vaatimukset, mutta lisäksi järjestelmäarkkitehtuuri ja käyttöliittymä.
 Wikipiedian dokumenttirakenne on todella laaja ja yleinen. 
 	
-(käyttötapaukset)
+####käyttötapaukset####
 
 Ohjelman tarkoituksena on tukea olioanalyysin tekijää vaatimusmäärittelyjen tulkitsemisessa. Ohjelman toiminta aloitetaan lukemalla vaatimusmäärittely ohjelman käsiteltäväksi. Vaatimusmäärittelystä erotellaan tarvittuja tietoja arviointimenetelmien perusteella. Analyysimallia voi muokata,  ja mallin ollessa valmis, sen voi tallentaa.
 
@@ -72,13 +70,13 @@ Yleinen käyttötapaus:
 4. Käyttäjä muokkaa käsitemallia.
 5. Ohjelma tallentaa käsitemallin.
 
-(järjestelmän yleisrakenne)
+####järjestelmän yleisrakenne####
 	
 Vaatimusten listaamiseen on käytetty kaavioita, joissa tuodaan esille tunniste, tärkeys, (edellä mainittu) käyttötapaus ja vaatimus.
 Kaavioita on käytetty selkeyttämään informaatiota. 
 Lisäksi on tyhjä taulukko vaatimusten toteutumista varten.
 	
-(funktionaaliset & ei-funktionaaliset vaatimukset)
+####funktionaaliset & ei-funktionaaliset vaatimukset####
 	
 Vaatimukset on lajiteltu käyttöalueiden mukaisesti:
 1. Syöterajapinta
@@ -91,14 +89,14 @@ Y1.1 - Y4.20 ja I1.1 - I1.5 (jotka sisältävät tietyt Yx.x -vaatimukset)
 	
 Iteraatio -vaatimusten alla on kaavio vaatimusten toteutumisen seurannasta.
 
-(miltä se näyttää)
+####miltä se näyttää####
 
 Käyttöliittymä on kuvattu sanallisesti taulukon avulla.
 Käyttöliittymästä ei ole kuvakaappauksia. 
 Siirtymistä eri näkymien välillä ei ole kuvattu ollenkaan.
     
 
-(prosessimalli)
+####prosessimalli####
 	
 Ei ollut kuvattu ainakaan tässä kyseisessä dokumentissa.
 
@@ -106,7 +104,7 @@ Resurssien ja budjetin kuvaus puuttui.
 	
 Dokumentti ei sisällä riskianalyysiä. 
 
-(johtopäätökset, oma mielipide)
+####johtopäätökset, oma mielipide####
 
 Hyvä dokumentti on selkeä ja helppolukuinen. Dokumentti sisältää kaiken tarvittavan tiedon, ja rakenne on mielenkiintoinen (kuvia ja tekstiä sopivasti toisiinsa suhteutettuna).
 
