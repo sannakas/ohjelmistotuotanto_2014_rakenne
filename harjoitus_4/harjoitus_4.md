@@ -105,9 +105,10 @@
 
 (miltä se näyttää)
 
-    onko käyttöliittymästä kuvia?
-    luonnoksia vai kuvakaappauksia valmiista käyttöliittymästä?
-    miten eri näkymien (views) välillä liikutaan?
+    Käyttöliittymä on kuvattu sanallisesti taulukon avulla.
+    Käyttöliittymästä ei ole kuvakaappauksia. 
+	Siirtymistä eri näkymien välillä ei ole kuvattu ollenkaan.
+    
 
 (prosessimalli)
 
@@ -117,9 +118,14 @@
 
 (johtopäätökset, oma mielipide)
 
-    mikä tekee hyvän dokumentin?
-    onko tämä sellainen? miksi?
-    kaavioiden käyttö: laatu? määrä? hyöty?
+    Hyvä dokumentti on selkeä ja helppolukuinen. Dokumentti sisältää kaiken tarvittavan tiedon, ja rakenne 
+	on mielenkiintoinen (kuvia ja tekstiä sopivasti toisiinsa suhteutettuna).
+	
+    Käyttämämme dokumentti ei ollut tarpeeksi selkeä, eikä antanut kaikkea tarvittavaa tietoa sovelluksesta.
+	Emme osaisi dokumentin pohjalta luoda tarvittavaa sovellusta. Visuaalisia elementtejä jäimme kaipaamaan, ne 
+	selkeyttäisivät dokumentin asioita huomattavasti.
+    
+	Kaavioita ei ollut dokumentissa yhtään, ja niitä jäimme kaipaamaan.
 
 
 
