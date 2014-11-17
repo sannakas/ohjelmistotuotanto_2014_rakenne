@@ -1,26 +1,26 @@
 ** Harjoitus **
 
 
- Luo markdown-tiedosto ryhmänne Github repoon (katso toimintaohje sivun lopusta), jossa pohdit seuraavia aiheita valitsemaasi dokumenttiin liittyen:
+ Luo markdown-tiedosto ryhmÃ¤nne Github repoon (katso toimintaohje sivun lopusta), jossa pohdit seuraavia aiheita valitsemaasi dokumenttiin liittyen:
 (johdanto)
 	
-	UCOT -sovellusprojekti - Vaatimusmärittely
+UCOT -sovellusprojekti - VaatimusmÃ¤rittely
 	
-	Tarkoitettu sovelluksen kehittäjille 
+	Tarkoitettu sovelluksen kehittÃ¤jille 
 	
-	Jyväskylän tietotekniikan laitos tarvitsee ohjelman, joka muodostaa analyysivaiheen olioluokkia käyttötapauskuvauksista.
+	JyvÃ¤skylÃ¤n tietotekniikan laitos tarvitsee ohjelman, joka muodostaa analyysivaiheen olioluokkia kÃ¤yttÃ¶tapauskuvauksista.
 		
-	Dokumentin tarkoituksena on ohjelman yleisen toiminnan kuvaaminen ja esitellä ohjelmalle asetettavat vaatimukset sekä esimerkkejä käyttötapauksista.
+	Dokumentin tarkoituksena on ohjelman yleisen toiminnan kuvaaminen ja esitellÃ¤ ohjelmalle asetettavat vaatimukset sekÃ¤ esimerkkejÃ¤ kÃ¤yttÃ¶tapauksista.
 	
 	Dokumentin rakenne:
 		Kansi
 		Tietoa dokumentista
 		Versiohistoria
 		Tietoa projektista
-		Sisällys
+		SisÃ¤llys
 		1. Johdanto 
 		2. Sovelluksen toiminta 
-		3. Käyttötapaukset 
+		3. KÃ¤yttÃ¶tapaukset 
 		4. Vaatimukset
 		Liitteet
 		Termit
@@ -29,10 +29,10 @@
 	
 		Kansi
 		1. Johdanto
-		2. Käyttötapaukset
-		3. Järjestelmäarkkitehtuuri
+		2. KÃ¤yttÃ¶tapaukset
+		3. JÃ¤rjestelmÃ¤arkkitehtuuri
 		4. Vaatimukset
-		5. Käyttöliittymä
+		5. KÃ¤yttÃ¶liittymÃ¤
 		6. Yhteenveto
 		
 	Wikipedian dokumenttirakenne:
@@ -41,87 +41,87 @@
 		2. Yleiskuvaus
 		3. Tiedot ja tietokanta
 		4. Toiminnot
-		5. Ulkoiset liittymät
+		5. Ulkoiset liittymÃ¤t
 		6. Muut ominaisuudet
 		7. Suunnittelurajoitteet
-		8. Hylätyt ratkaisuvaihtoehdot
+		8. HylÃ¤tyt ratkaisuvaihtoehdot
 		9. Jatkokehitysajatuksia
 		Liitteet
 		
-	Valitsemamme vaatimusmäärittelyn rakenne on hyvin tiivistetysti ohjelman toiminnallisuudet, käyttötapaukset ja vaatimukset.
-	Kurssiprojektin dokumenttirakenne sisältää myös käyttötapaukset ja vaatimukset, mutta lisäksi järjestelmäarkkitehtuuri ja käyttöliittymä.
+	Valitsemamme vaatimusmÃ¤Ã¤rittelyn rakenne on hyvin tiivistetysti ohjelman toiminnallisuudet, kÃ¤yttÃ¶tapaukset ja vaatimukset.
+	Kurssiprojektin dokumenttirakenne sisÃ¤ltÃ¤Ã¤ myÃ¶s kÃ¤yttÃ¶tapaukset ja vaatimukset, mutta lisÃ¤ksi jÃ¤rjestelmÃ¤arkkitehtuuri ja kÃ¤yttÃ¶liittymÃ¤.
 	Wikipiedian dokumenttirakenne on todella laaja ja yleinen. 
 	
-(käyttötapaukset)
+(kÃ¤yttÃ¶tapaukset)
 
-    Ohjelman tarkoituksena on tukea olioanalyysin tekijää vaatimusmäärittelyjen tulkitsemisessa. Ohjelman 
-	toiminta aloitetaan lukemalla vaatimusmäärittely ohjelman käsiteltäväksi. Vaatimusmäärittelystä erotellaan
+    Ohjelman tarkoituksena on tukea olioanalyysin tekijÃ¤Ã¤ vaatimusmÃ¤Ã¤rittelyjen tulkitsemisessa. Ohjelman 
+	toiminta aloitetaan lukemalla vaatimusmÃ¤Ã¤rittely ohjelman kÃ¤siteltÃ¤vÃ¤ksi. VaatimusmÃ¤Ã¤rittelystÃ¤ erotellaan
 	tarvittuja tietoja arviointimenetelmien perusteella. Analyysimallia voi muokata,  ja mallin ollessa valmis,
 	sen voi tallentaa.
 	
-    Dokumentissa ei ole määritelty käyttötapauskaavioita
+    Dokumentissa ei ole mÃ¤Ã¤ritelty kÃ¤yttÃ¶tapauskaavioita
 	
-    Käyttötapaukset kuvattu sanallisesti
+    KÃ¤yttÃ¶tapaukset kuvattu sanallisesti
 	
-    Käyttötapaus esimerkki:
-		1. Käyttäjä kirjoittaa käyttötapauksen (Kirjoita käyttötapaus).
-		2. Järjestelmä lukee käyttötapauksen.
-		3. Järjestelmä tuottaa oliokuvauksen.
-		4. Käyttäjä muokkaa oliokuvausta.
-		5. Järjestelmä tallentaa oliokuvauksen.
+    KÃ¤yttÃ¶tapaus esimerkki:
+		1. KÃ¤yttÃ¤jÃ¤ kirjoittaa kÃ¤yttÃ¶tapauksen (Kirjoita kÃ¤yttÃ¶tapaus).
+		2. JÃ¤rjestelmÃ¤ lukee kÃ¤yttÃ¶tapauksen.
+		3. JÃ¤rjestelmÃ¤ tuottaa oliokuvauksen.
+		4. KÃ¤yttÃ¤jÃ¤ muokkaa oliokuvausta.
+		5. JÃ¤rjestelmÃ¤ tallentaa oliokuvauksen.
 		
-	Yleinen käyttötapaus:
-		1. Käyttäjä valitsee käyttötapauksen jäsennettäväksi (Valitse käyttöta
+	Yleinen kÃ¤yttÃ¶tapaus:
+		1. KÃ¤yttÃ¤jÃ¤ valitsee kÃ¤yttÃ¶tapauksen jÃ¤sennettÃ¤vÃ¤ksi (Valitse kÃ¤yttÃ¶ta
 		paus).
-		2. Ohjelma prosessoi käyttötapauksen (Prosessoi käyttötapaus)
-		3. Ohjelma esittää käsitemallin.
-		4. Käyttäjä muokkaa käsitemallia.
-		5. Ohjelma tallentaa käsitemallin.
+		2. Ohjelma prosessoi kÃ¤yttÃ¶tapauksen (Prosessoi kÃ¤yttÃ¶tapaus)
+		3. Ohjelma esittÃ¤Ã¤ kÃ¤sitemallin.
+		4. KÃ¤yttÃ¤jÃ¤ muokkaa kÃ¤sitemallia.
+		5. Ohjelma tallentaa kÃ¤sitemallin.
 
-(järjestelmän yleisrakenne)
+(jÃ¤rjestelmÃ¤n yleisrakenne)
 	
-	Vaatimusten listaamiseen on käytetty kaavioita, joissa tuodaan esille tunniste, tärkeys, (edellä mainittu) käyttötapaus ja vaatimus.
-	Kaavioita on käytetty selkeyttämään informaatiota. 
-	Lisäksi on tyhjä taulukko vaatimusten toteutumista varten.
+	Vaatimusten listaamiseen on kÃ¤ytetty kaavioita, joissa tuodaan esille tunniste, tÃ¤rkeys, (edellÃ¤ mainittu) kÃ¤yttÃ¶tapaus ja vaatimus.
+	Kaavioita on kÃ¤ytetty selkeyttÃ¤mÃ¤Ã¤n informaatiota. 
+	LisÃ¤ksi on tyhjÃ¤ taulukko vaatimusten toteutumista varten.
 	
 (funktionaaliset & ei-funktionaaliset vaatimukset)
 	
-	Vaatimukset on lajiteltu käyttöalueiden mukaisesti:
-		1. Syöterajapinta
+	Vaatimukset on lajiteltu kÃ¤yttÃ¶alueiden mukaisesti:
+		1. SyÃ¶terajapinta
 		2. Heuristiikkarajapinta
 		3. Tulosterajapinta
-		4. Käyttöliittymä
+		4. KÃ¤yttÃ¶liittymÃ¤
 		5. Iteraatioille vaatimukset
 	
-		Y1.1 - Y4.20 ja I1.1 - I1.5 (jotka sisältävät tietyt Yx.x -vaatimukset)
+		Y1.1 - Y4.20 ja I1.1 - I1.5 (jotka sisÃ¤ltÃ¤vÃ¤t tietyt Yx.x -vaatimukset)
 	
 		Iteraatio -vaatimusten alla on kaavio vaatimusten toteutumisen seurannasta.
 
-(miltä se näyttää)
+(miltÃ¤ se nÃ¤yttÃ¤Ã¤)
 
-    Käyttöliittymä on kuvattu sanallisesti taulukon avulla.
-    Käyttöliittymästä ei ole kuvakaappauksia. 
-	Siirtymistä eri näkymien välillä ei ole kuvattu ollenkaan.
+    KÃ¤yttÃ¶liittymÃ¤ on kuvattu sanallisesti taulukon avulla.
+    KÃ¤yttÃ¶liittymÃ¤stÃ¤ ei ole kuvakaappauksia. 
+	SiirtymistÃ¤ eri nÃ¤kymien vÃ¤lillÃ¤ ei ole kuvattu ollenkaan.
     
 
 (prosessimalli)
 	
-	Ei ollut kuvattu ainakaan tässä kyseisessä dokumentissa.
+	Ei ollut kuvattu ainakaan tÃ¤ssÃ¤ kyseisessÃ¤ dokumentissa.
 		
 	Resurssien ja budjetin kuvaus puuttui. 
 	
-	Dokumentti ei sisällä riskianalyysiä. 
+	Dokumentti ei sisÃ¤llÃ¤ riskianalyysiÃ¤. 
 
-(johtopäätökset, oma mielipide)
+(johtopÃ¤Ã¤tÃ¶kset, oma mielipide)
 
-    Hyvä dokumentti on selkeä ja helppolukuinen. Dokumentti sisältää kaiken tarvittavan tiedon, ja rakenne 
-	on mielenkiintoinen (kuvia ja tekstiä sopivasti toisiinsa suhteutettuna).
+    HyvÃ¤ dokumentti on selkeÃ¤ ja helppolukuinen. Dokumentti sisÃ¤ltÃ¤Ã¤ kaiken tarvittavan tiedon, ja rakenne 
+	on mielenkiintoinen (kuvia ja tekstiÃ¤ sopivasti toisiinsa suhteutettuna).
 	
-    Käyttämämme dokumentti ei ollut tarpeeksi selkeä, eikä antanut kaikkea tarvittavaa tietoa sovelluksesta.
-	Emme osaisi dokumentin pohjalta luoda tarvittavaa sovellusta. Visuaalisia elementtejä jäimme kaipaamaan, ne 
-	selkeyttäisivät dokumentin asioita huomattavasti.
+    KÃ¤yttÃ¤mÃ¤mme dokumentti ei ollut tarpeeksi selkeÃ¤, eikÃ¤ antanut kaikkea tarvittavaa tietoa sovelluksesta.
+	Emme osaisi dokumentin pohjalta luoda tarvittavaa sovellusta. Visuaalisia elementtejÃ¤ jÃ¤imme kaipaamaan, ne 
+	selkeyttÃ¤isivÃ¤t dokumentin asioita huomattavasti.
     
-	Kaavioita ei ollut dokumentissa yhtään, ja niitä jäimme kaipaamaan.
+	Kaavioita ei ollut dokumentissa yhtÃ¤Ã¤n, ja niitÃ¤ jÃ¤imme kaipaamaan.
 
 
 
