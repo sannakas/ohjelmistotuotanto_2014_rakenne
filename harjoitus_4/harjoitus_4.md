@@ -1,5 +1,5 @@
 ## Harjoitus ##
-
+Linkki sivulle: http://sovellusprojektit.it.jyu.fi/ucot/projekti/files/UCOT-vaatimusmaarittely-0.04.pdf
 ####johdanto####
 	
 UCOT -sovellusprojekti - Vaatimusmärittely
