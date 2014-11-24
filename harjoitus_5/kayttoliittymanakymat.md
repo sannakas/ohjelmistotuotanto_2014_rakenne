@@ -23,14 +23,29 @@ Aloitusnäkymästä pääsee hakua vastaavaan karttanäkymään <br />
 	- kirjoittamalla hakukenttään opettajan nimen<br />
 	- kirjoittamalla hakukenttään luokan nimen<br />
 
-Karttanäkymästä pääsee takaisin aloitusnäkymään nuolipainikkeen avulla
+Karttanäkymästä pääsee takaisin aloitusnäkymään nuolipainikkeen avulla.<br />
+Karttanäkymistä toiseen pystyy siirtymään tekemällä uuden haun.<br />
 
 5. Listaa jokaista näkymää kohti tieto siitä, millaista tietosisältöä tai data käyttöliittymässä näytetään.<br />
 Aloitusnäkymä:<br />
-	- opiskelijan paikannustiedot, eli millä kampuksella ja missä päin rakennusta hän on
-	- kampuksella olevien luokkien varaustietokanta
-	- 
+	- opiskelijan paikannustiedot, eli millä kampuksella ja missä päin rakennusta hän on<br />
+	- kampuksella olevien luokkien varaustietokanta<br />
+	
+Karttanäkymä (luokkaan suunnistus):<br />
+	- opiskelijan paikannustiedot, eli millä kampuksella ja missä päin rakennusta hän on<br />
+	- kampuksella olevien luokkien varaustietokanta<br />
+	- koulun kartta ja reitin laskenta
 
+Karttanäkymä (opettajan haku):
+	- opiskelijan paikannustiedot, eli millä kampuksella ja missä päin rakennusta hän on<br />
+	- kampuksella olevien luokkien varaustietokanta<br />
+	- opettajan läsnäolotieto
+	- opettajan paikannustiedot koulun sisätiloissa luokan tarkkuudella
+
+Hakunäkymä:
+	- opiskelijan paikannustiedot, eli millä kampuksella ja missä päin rakennusta hän on<br />
+	- luokkien ja opettajien lista<br />
+	
 #### 3. Visualisoi listaamasi näkymät ja niihin liittyvät siirtymät
 
 - vähintään 3 näkymää
