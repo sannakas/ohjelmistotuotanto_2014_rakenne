@@ -2,7 +2,8 @@ Käyttöliittymän näkymät (User interface, views), oma projektiaihe. Voi tehdä pie
 
 1. Miten käyttötapaukset ja käyttöliittymät voisi yhdistää toisiinsa vaatimusmäärittelydokumentaatiossa? Perustele
 vastauksesi.<br />
-
+Käyttötapauksilla voi käyttää esimerkiksi ID-tunnuksia, joiden avulla ne on helposti yhdistettävissä käyttöliittymän kuvauksiin.<br />
+Käyttötapausten yhteydessä voi myös käyttää käyttöliittymää esitteleviä kuvia toiminnallisuuksien havainnollistamiseen.
 
 2. Listaa järjestelmän käyttöliittymän olennaisimmat näkymät<br />
  
@@ -12,9 +13,18 @@ vastauksesi.<br />
 
 
 4. Määritä näkymien väliset siirtymät korkealla tasolla, mistä näkymästä pääsee minnekin? Millä tavoin visualisoisit tilasiirtymät?<br />
+Aloitusnäkymästä pääsee hakua vastaavaan karttanäkymään <br />
+	- painamalla vapaan tai vapautuvan luokan nimilinkkiä<br />
+	- kirjoittamalla hakukenttään opettajan nimen<br />
+	- kirjoittamalla hakukenttään luokan nimen<br />
 
+Karttanäkymästä pääsee takaisin aloitusnäkymään nuolipainikkeen avulla
 
 5. Listaa jokaista näkymää kohti tieto siitä, millaista tietosisältöä tai data käyttöliittymässä näytetään.<br />
+Aloitusnäkymä:<br />
+	- opiskelijan paikannustiedot, eli millä kampuksella ja missä päin rakennusta hän on
+	- kampuksella olevien luokkien varaustietokanta
+	- 
 
 #### 3. Visualisoi listaamasi näkymät ja niihin liittyvät siirtymät
 
