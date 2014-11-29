@@ -1,10 +1,10 @@
 
-## Projektin kansilehti 
+## WhereToGo 
 
-Listaa tänne
+#### SaHaApps
 
-* Projektin otsikko eli tuotteen nimi
-* Tiimin nimi
-* Tiimin jäsenet
-* Päivämäärä
-* Dokumentin versio, jos tarpeen 
+Hanna-Kaisa Alanne 1302710
+Sanna Salo 1302668
+
+29.11.2014
+Versio 1.0
