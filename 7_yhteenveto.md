@@ -21,5 +21,6 @@ olleet tyytyväisiä?
 Päivämäärä | Tunnit | Nimi 
 -----------|--------|-------
 29.11.2014 | 3      | Sanna
+30.11.2014 | 2		| Hanna
 
 
