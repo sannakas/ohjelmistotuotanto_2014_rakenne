@@ -11,5 +11,10 @@
 
 #### Tarvittavat komponentit
 
+* Käyttöliittymä
+* Karttakomponentti (karttakuvat, valitun tilan maalaus ym.. )
+* Sisätilapaikannuskomponentti (tarvitsee puhelimen keräämät wlan-signaalivoimakkuudet ja antaa sijaintitiedot)
+* Autentikointikomponentti (varmistetaan oikeudet, haetaan vapaat luokkatilat, ...)
+* Kirjautumistiedot (opettajan näkyvyys-status tallennetaan)
 
 [Next: Vaatimukset](https://github.com/sannakas/ohjelmistotuotanto_2014_rakenne/blob/master/5_vaatimukset.md)
