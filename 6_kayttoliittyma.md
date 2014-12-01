@@ -15,6 +15,8 @@ Kuvaile siirtymät käyttöliittymänäkymien välillä
 
 ![kayttoliittyma](käyttöliittymä_1.png)
 
+![kayttoliittyma](käyttöliittymä_2.png)
+
 #### Näkymien väliset suhteet
 
 
