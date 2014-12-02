@@ -25,6 +25,13 @@ riittävän yksiselitteisiä?
 
 #### Funktionaaliset vaatimukset
 
+1. Vapaiden luokkien etsiminen
+
+|		Vaatimus					|
+|--------------------------	|
+|							|
+|							|
+
 
 #### Ei-funktionaaliset vaatimukset
 
