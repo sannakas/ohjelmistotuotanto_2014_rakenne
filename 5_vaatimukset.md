@@ -30,13 +30,14 @@ riittävän yksiselitteisiä?
 |								Vaatimus								|
 |-----------------------------------------------------------------------|
 |		Järjestelmään on voitava kirjautua opiskelijatunnuksilla		|
-|	
-|		Järjestelmän on tunnistettava käyttäjä kirjautumistietojen 		|
-|		perusteella, sekä määrittettvä sijainti							|
 |																		|
-|Järjestelmän on tulostettava käyttäjälle lista vapaista ja vapautuvista|
-|luokista																|
+|		Järjestelmän on tunnistettava käyttäjä kirjautumistietojen perusteella, sekä määrittettvä sijainti|
 |																		|
+|																		|
+|Järjestelmän on tulostettava käyttäjälle lista vapaista ja vapautuvista luokista|
+|																		|
+|Järjestelmän on piirrettävä reitti käyttäjän sijainnista valittuun luokkaan| 
+|   									      	                         |                                |																																
 
 
 
