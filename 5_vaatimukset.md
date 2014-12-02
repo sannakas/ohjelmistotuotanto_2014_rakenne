@@ -27,10 +27,16 @@ riittävän yksiselitteisiä?
 
 1. Vapaiden luokkien etsiminen
 
-|		Vaatimus					|
-|--------------------------	|
-|							|
-|							|
+|								Vaatimus								|
+|-----------------------------------------------------------------------|
+|		Järjestelmään on voitava kirjautua opiskelijatunnuksilla		|
+|-----------------------------------------------------------------------|													|		Järjestelmän on tunnistettava käyttäjä kirjautumistietojen 		|
+|		perusteella, sekä määrittettvä sijainti							|
+|-----------------------------------------------------------------------|
+|Järjestelmän on tulostettava käyttäjälle lista vapaista ja vapautuvista|
+|luokista																|
+|-----------------------------------------------------------------------|
+
 
 
 #### Ei-funktionaaliset vaatimukset
