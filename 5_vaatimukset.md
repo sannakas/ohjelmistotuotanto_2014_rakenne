@@ -25,12 +25,19 @@ riittävän yksiselitteisiä?
 
 #### Funktionaaliset vaatimukset
 
-Seuraavissa taulukoissa on kuvattu toiminnalliset vaatimukset jokaiseen käyttötapaukseen liittyen. Tavoitteena on ollut kuvata millaisia ominaisuuksia järjestelmältä odotetaan erilaisissa käyttötapauksissa, jotta sitä olisi mahdollisimman helppo käyttää ilman ongelmia.
+Seuraavissa taulukoissa on kuvattu toiminnalliset vaatimukset, jotka liittyvät jokaiseen käyttötapaukseen yleisesti. Lisäksi jokaiselle käyttötapaukselle on listattu omat toiminnalliset vaatimukset. Tavoitteena on ollut kuvata millaisia ominaisuuksia järjestelmältä odotetaan erilaisissa käyttötapauksissa, jotta sitä olisi mahdollisimman helppo käyttää ilman ongelmia.
 
-1. Vapaiden luokkien etsiminen
+|								1. Yleiset toiminnalliset vaatimukset														|
+|-----------------------------------------------------------------------------------------------------------------------|
+|		Järjstelmään on pystyttävä kirjautumaan koulun käyttäjätunnuksilla												|
+|		Järjestelmästä poistutaan kirjautumalla ulos																	|
+|		Kirjautuminen onnistuu ainoastaan koulun tunnuksilla 															|
+|		Sovellus on ilmainen, ja se ladataan sovelluskaupasta															|
+|		Järjestelmä toimii kaikilla yleisimmillä käyttöjärjestelmillä													|
 
-|								Vaatimus																				|
-|-----------------------------------------------------------------------------------------------------------------------|	|		Järjestelmään on voitava kirjautua opiskelijatunnuksilla														|
+
+|								2. Vapaiden luokkien etsiminen															|
+|-----------------------------------------------------------------------------------------------------------------------|	
 |		Järjestelmän on tunnistettava käyttäjä, sekä määritettävä hänen sijainti										|
 |		Järjestelmän on tulostettava käyttäjälle lista vapaista ja vapautuvista luokista 								|
 |		Järjestelmän on piirrettävä reitti käyttäjän sijainnista valittuun luokkaan										|
@@ -41,9 +48,7 @@ Seuraavissa taulukoissa on kuvattu toiminnalliset vaatimukset jokaiseen käyttö
 										
 
 
-2. Opettajan etsiminen koulurakennuksessa
-
-|								Vaatimus																				|
+|								3. Opettajan paikantaminen ja etsiminen koulurakennuksessa								|
 |-----------------------------------------------------------------------------------------------------------------------|
 |		Järjestelmään on voitava kirjautua opiskelijatunnuksilla														|
 |		Järjestelmän on tunnistettava käyttäjä, sekä määritettävä hänen sijainti										|
@@ -52,9 +57,8 @@ Seuraavissa taulukoissa on kuvattu toiminnalliset vaatimukset jokaiseen käyttö
 |		Järjestelmässä on mahdollisuus palata yleisnäkymään nappia painamalla											|
 
 
-3. Opettaja sallii/estää paikannuksen
 
-|								Vaatimus																				|
+|								4. Opettaja sallii/estää paikannuksen													|
 |-----------------------------------------------------------------------------------------------------------------------|
 |		Opettajalla mahdollisuus kirjautua tunnuksillaan järjestelmään													|
 |		Järjestelmän on tunnistettava käyttäjä, sekä määritettävä hänen sijainti										|
@@ -64,9 +68,16 @@ Seuraavissa taulukoissa on kuvattu toiminnalliset vaatimukset jokaiseen käyttö
 
 
 																	
-
-
-
 #### Ei-funktionaaliset vaatimukset
+
+Tässä osassa kuvataan järjestelmän ei-funktionaaliset vaatimukset, jotka ovat yhteisiä kaikissa käyttötapauksissa
+
+- Käyttäjällä tulee olla käytössä mobiililaite tai tablet, jossa on mahdollisuus wifi-yhteyteen
+- Laitteessa tulee olla käyttöjärjestelmä, joka tukee sovellusta
+- Koulun wifi-yhteyden tulee olla kokoajan päällä, jotta paikannus onnistuu
+- Järjestelmän nappien tulee olla sopivan kokoisia, jotta helppokäyttöisyys on varmaa
+- Luotettavuuden lisäämiseksi järjestelmä testataan kunnolla ennen julkaisua
+- Jokaisen päivityksen jälkeen järjestelmä testataan ennen käyttöönottoa
+- Ulkoasun tulee olla selkeä sekä miellyttävä
 
 [Next: Käyttöliittymä](https://github.com/sannakas/ohjelmistotuotanto_2014_rakenne/blob/master/6_kayttoliittyma.md)
