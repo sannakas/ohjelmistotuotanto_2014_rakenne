@@ -25,6 +25,8 @@ riittävän yksiselitteisiä?
 
 #### Funktionaaliset vaatimukset
 
+Seuraavissa taulukoissa on kuvattu toiminnalliset vaatimukset jokaiseen käyttötapaukseen liittyen. Tavoitteena on ollut kuvata millaisia ominaisuuksia järjestelmältä odotetaan erilaisissa käyttötapauksissa, jotta sitä olisi mahdollisimman helppo käyttää ilman ongelmia.
+
 1. Vapaiden luokkien etsiminen
 
 |								Vaatimus																				|
@@ -34,6 +36,9 @@ riittävän yksiselitteisiä?
 |		Järjestelmän on piirrettävä reitti käyttäjän sijainnista valittuun luokkaan										|
 |		Hakupalkin avulla on oltava mahdollista etsiä opettajaa tai luokkaa nimen perusteella							|
 |		Järjestelmässä on mahdollisuus palata yleisnäkymään nappia painamalla											|
+|		Järjestelmän on myös osattava näyttää missä kerroksessa rakennuksessa liikutaan									|
+|		Lisäksi järjestelmässä on mahdollisuus saada reitti näkyviin käyttäjän sijainnista varattuna olevaan luokkaan	|
+										
 
 
 2. Opettajan etsiminen koulurakennuksessa
@@ -47,6 +52,13 @@ riittävän yksiselitteisiä?
 |		Järjestelmässä on mahdollisuus palata yleisnäkymään nappia painamalla											|
 
 
+3. Opettaja sallii/estää paikannuksen
+
+|								Vaatimus																				|
+|-----------------------------------------------------------------------------------------------------------------------|
+|		Opettajalla mahdollisuus kirjautua tunnuksillaan järjestelmään													|
+|		Järjestelmän on tunnistettava käyttäjä, sekä määritettävä hänen sijainti										|
+|		Alkunäkymässä opettajalla on mahdollisuus valita pystyykö hänet paikantamaan									|
 
 
 
