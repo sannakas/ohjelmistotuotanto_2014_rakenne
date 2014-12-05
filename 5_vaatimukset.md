@@ -31,9 +31,10 @@ Seuraavissa taulukoissa on kuvattu toiminnalliset vaatimukset, jotka liittyvät 
 |-----------------------------------------------------------------------------------------------------------------------|
 |		Järjstelmään on pystyttävä kirjautumaan koulun käyttäjätunnuksilla												|
 |		Järjestelmästä poistutaan kirjautumalla ulos																	|
-|		Kirjautuminen onnistuu ainoastaan koulun tunnuksilla 															|
+|		Kirjautuminen onnistuu ainoastaan koulun Tuubi-tunnuksilla 															|
 |		Sovellus on ilmainen, ja se ladataan sovelluskaupasta															|
 |		Järjestelmä toimii kaikilla yleisimmillä käyttöjärjestelmillä													|
+|														
 
 
 |								2. Vapaiden luokkien etsiminen															|
@@ -79,5 +80,7 @@ Tässä osassa kuvataan järjestelmän ei-funktionaaliset vaatimukset, jotka ova
 - Luotettavuuden lisäämiseksi järjestelmä testataan kunnolla ennen julkaisua
 - Jokaisen päivityksen jälkeen järjestelmä testataan ennen käyttöönottoa
 - Ulkoasun tulee olla selkeä sekä miellyttävä
+- Järjestelmän on toimittava suurenkin kuormituksen alla
+
 
 [Next: Käyttöliittymä](https://github.com/sannakas/ohjelmistotuotanto_2014_rakenne/blob/master/6_kayttoliittyma.md)

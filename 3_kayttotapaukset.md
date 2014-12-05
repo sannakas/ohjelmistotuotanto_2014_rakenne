@@ -16,6 +16,31 @@ Metropolia ammattikorkeakoulun opiskelijat ovat WhereToGo:n loppukäyttäjiä. V
 #### Käyttötapauskaavio ja käyttäjäskenaariot
 ![kayttotapaus](Käyttötapauskaavio.jpg)
 
+
+	|	Käyttötapaus 	| 										Kuvaus											|
+	|-----------------------------------------------------------------------------------------------------------|
+|1.	|	Opiskelijan tavoitteena on löytää vapaa luokka koulurakennuksessa. Hän käynnistää sovelluksen, kirjautuu
+		järjestelmään, ja sovellus määrittää opiskelijan sijainnin. Sovelluksen käynnistyttyä yleisnäkymänä on 
+		lista koulun vapaista ja vapautuvista luokista. Luokkien nimet on kirjattu väreillä, joista selviää 
+		luokkien statukset (vihreä = vapaa luokka, keltainen = vapautumassa oleva luokka). Luokan nimeä 
+		painettaessa näkymä vaihtuu koulun karttaan, johon piirtyy lyhin reitti opiskelijan sijainnista valittuun
+		luokkaan. Sovelluksessa on myös hakupalkki, jonka avulla käyttäjä voi hakea luokkaa tai opettajaa. 
+		Hakupalkkia on mahdollista käyttää kaikissa näkymissä.
+	|																											|
+|2. |	Opiskelijan tavoitteena on etsiä opettaja koulurakennuksessa. Hän käynnistää sovelluksen, kirjautuu 
+		järjestelmään, ja sovellus määrittää opiskelijan sijainnin. Sovelluksen käynnistyttyä yleisnäkymänä on 
+		lista koulun luokista. Näkymän alalaidassa on hakupalkki, johon opiskelija kirjoittaa haettavan opettajan
+		nimen. Jos opettaja on läsnä ja hän on sallinut paikannuksen, näkyy hänen sijaintinsa kartalla. Näin 
+		opiskelija näkee opettajan sijainnin, ja hän voi lähteä tavoittelemaan opettajaa.	
+	|																											|
+
+
+
+
+
+
+
+
 1. käyttötapaus: Opiskelijan tavoitteena on löytää vapaa luokka koulurakennuksessa. Hän käynnistää sovelluksen, kirjautuu järjestelmään, ja sovellus määrittää opiskelijan sijainnin. Sovelluksen käynnistyttyä yleisnäkymänä on lista koulun vapaista ja vapautuvista luokista. Luokkien nimet on kirjattu väreillä, joista selviää luokkien statukset (vihreä = vapaa luokka, keltainen = vapautumassa oleva luokka). Luokan nimeä painettaessa näkymä vaihtuu koulun karttaan, johon piirtyy lyhin reitti opiskelijan sijainnista valittuun luokkaan. Sovelluksessa on myös hakupalkki, jonka avulla käyttäjä voi hakea luokkaa tai opettajaa. Hakupalkkia on mahdollista käyttää kaikissa näkymissä.
 2. käyttötapaus: Opiskelijan tavoitteena on etsiä opettaja koulurakennuksessa. Hän käynnistää sovelluksen, kirjautuu järjestelmään, ja sovellus määrittää opiskelijan sijainnin. Sovelluksen käynnistyttyä yleisnäkymänä on lista koulun luokista. Näkymän alalaidassa on hakupalkki, johon opiskelija kirjoittaa haettavan opettajan nimen. Jos opettaja on läsnä ja hän on sallinut paikannuksen, näkyy hänen sijaintinsa kartalla. Näin opiskelija näkee opettajan sijainnin, ja hän voi lähteä tavoittelemaan opettajaa.
 3. käyttötapaus: Opettaja kirjautuu järjestelmään ja määrittää itsensä paikallaolevaksi, jolloin opiskelijalla on mahdollisuus etsiä ja paikantaa hänet sovelluksen avulla.
