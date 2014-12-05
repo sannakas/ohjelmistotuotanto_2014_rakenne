@@ -9,6 +9,8 @@
 
 #### Yleisesti
 
+![jarjestelma_arkkitehtuuri](j_arkkitehtuuri.png)
+
 #### Tarvittavat komponentit
 
 * Käyttöliittymä
