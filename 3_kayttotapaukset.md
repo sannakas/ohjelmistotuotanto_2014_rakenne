@@ -16,6 +16,8 @@ Metropolia ammattikorkeakoulun opiskelijat ovat WhereToGo:n loppukäyttäjiä. V
 #### Käyttötapauskaavio ja käyttäjäskenaariot
 ![kayttotapaus](Käyttötapauskaavio.jpg)
 
+#H2 Käyttäjäskenaariot
+
 1. Käyttötapaus: Opiskelijan tavoitteena on löytää vapaa luokka koulurakennuksessa. Hän käynnistää sovelluksen, kirjautuu järjestelmään, ja sovellus määrittää opiskelijan sijainnin. Sovelluksen käynnistyttyä yleisnäkymänä on lista koulun vapaista ja vapautuvista luokista. Luokkien nimet on kirjattu väreillä, joista selviää luokkien statukset (vihreä = vapaa luokka, keltainen = vapautumassa oleva luokka). Luokan nimeä painettaessa näkymä vaihtuu koulun karttaan, johon piirtyy lyhin reitti opiskelijan sijainnista valittuun luokkaan. Sovelluksessa on myös hakupalkki, jonka avulla käyttäjä voi hakea luokkaa tai opettajaa. Hakupalkkia on mahdollista käyttää kaikissa näkymissä.
 <br />
 
