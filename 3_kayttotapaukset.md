@@ -19,7 +19,7 @@ Metropolia ammattikorkeakoulun opiskelijat ovat WhereToGo:n loppukäyttäjiä. V
 
 	|	Käyttötapaus 	| 										Kuvaus											|
 	|-----------------------------------------------------------------------------------------------------------|
-|1.	|	Opiskelijan tavoitteena on löytää vapaa luokka koulurakennuksessa. Hän käynnistää sovelluksen, kirjautuu
+		Opiskelijan tavoitteena on löytää vapaa luokka koulurakennuksessa. Hän käynnistää sovelluksen, kirjautuu
 		järjestelmään, ja sovellus määrittää opiskelijan sijainnin. Sovelluksen käynnistyttyä yleisnäkymänä on 
 		lista koulun vapaista ja vapautuvista luokista. Luokkien nimet on kirjattu väreillä, joista selviää 
 		luokkien statukset (vihreä = vapaa luokka, keltainen = vapautumassa oleva luokka). Luokan nimeä 
@@ -27,7 +27,7 @@ Metropolia ammattikorkeakoulun opiskelijat ovat WhereToGo:n loppukäyttäjiä. V
 		luokkaan. Sovelluksessa on myös hakupalkki, jonka avulla käyttäjä voi hakea luokkaa tai opettajaa. 
 		Hakupalkkia on mahdollista käyttää kaikissa näkymissä.
 	|																											|
-|2. |	Opiskelijan tavoitteena on etsiä opettaja koulurakennuksessa. Hän käynnistää sovelluksen, kirjautuu 
+		Opiskelijan tavoitteena on etsiä opettaja koulurakennuksessa. Hän käynnistää sovelluksen, kirjautuu 
 		järjestelmään, ja sovellus määrittää opiskelijan sijainnin. Sovelluksen käynnistyttyä yleisnäkymänä on 
 		lista koulun luokista. Näkymän alalaidassa on hakupalkki, johon opiskelija kirjoittaa haettavan opettajan
 		nimen. Jos opettaja on läsnä ja hän on sallinut paikannuksen, näkyy hänen sijaintinsa kartalla. Näin 
