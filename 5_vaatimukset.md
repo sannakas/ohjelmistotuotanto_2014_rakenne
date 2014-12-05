@@ -27,11 +27,11 @@ riittävän yksiselitteisiä?
 
 Seuraavissa taulukoissa on kuvattu toiminnalliset vaatimukset, jotka liittyvät jokaiseen käyttötapaukseen yleisesti. Lisäksi jokaiselle käyttötapaukselle on listattu omat toiminnalliset vaatimukset. Tavoitteena on ollut kuvata millaisia ominaisuuksia järjestelmältä odotetaan erilaisissa käyttötapauksissa, jotta sitä olisi mahdollisimman helppo käyttää ilman ongelmia.
 
-|								1. Yleiset toiminnalliset vaatimukset														|
+|								1. Yleiset toiminnalliset vaatimukset													|
 |-----------------------------------------------------------------------------------------------------------------------|
 |		Järjstelmään on pystyttävä kirjautumaan koulun käyttäjätunnuksilla												|
 |		Järjestelmästä poistutaan kirjautumalla ulos																	|
-|		Kirjautuminen onnistuu ainoastaan koulun Tuubi-tunnuksilla 															|
+|		Kirjautuminen onnistuu ainoastaan koulun Tuubi-tunnuksilla 														|
 |		Sovellus on ilmainen, ja se ladataan sovelluskaupasta															|
 |		Järjestelmä toimii kaikilla yleisimmillä käyttöjärjestelmillä													|
 |														
@@ -75,6 +75,7 @@ Tässä osassa kuvataan järjestelmän ei-funktionaaliset vaatimukset, jotka ova
 
 - Käyttäjällä tulee olla käytössä mobiililaite tai tablet, jossa on mahdollisuus wifi-yhteyteen
 - Laitteessa tulee olla käyttöjärjestelmä, joka tukee sovellusta
+- Sovelluksen tulee näyttää samalta kaikilla laitteilla
 - Koulun wifi-yhteyden tulee olla kokoajan päällä, jotta paikannus onnistuu
 - Järjestelmän nappien tulee olla sopivan kokoisia, jotta helppokäyttöisyys on varmaa
 - Luotettavuuden lisäämiseksi järjestelmä testataan kunnolla ennen julkaisua
