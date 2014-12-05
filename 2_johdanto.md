@@ -1,11 +1,5 @@
 ## Johdanto
 
-* Kerro tässä luvussa yleiskuvaus projektista
-* Mitä tehdään?
-* Miksi? Projektin taustatiedot, miksi tällainen projekti on olemassa?  
-
---
-
 WhereToGo on sisätilapaikannusjärjestelmää hyödyntävä sovellus Metropolia ammattikorkeakoulun opiskelijoille.
 Opiskelija voi WhereToGo:n avulla selvittää koulutalon vapaat luokkatilat, reitin haluamaansa luokkatilaan sekä etsimänsä opettajan sijainnin koululla. 
 Paikannettuaan opiskelijan sovellus antaa etusivullaan listan koulutalon vapaista (vihreä) ja vapautuvista (keltainen) luokkatiloista.

@@ -9,9 +9,11 @@
 
 #### Yleisesti
 
+Järjestelmäarkkitehtuurin kuvauksessa esitellään toimintoineen sellaiset sisäiset loogiset elementit, jotka sovellus tarvitsee toteuttaakseen vaatimusmäärittelyssä osoitetut vaatimukset. Alla olevassa kuvassa on nähtävissä yleiskatsaus WhereToGo-sovelluksen järjestelmäarkkitehtuurista.
+
 ![jarjestelma_arkkitehtuuri](j_arkkitehtuuri.png)
 
-#### Tarvittavat komponentit
+#### Tarvittavat komponentit tarkemmin
 
 * Käyttöliittymä
 * Karttakomponentti (karttakuvat, valitun tilan maalaus ym.. )

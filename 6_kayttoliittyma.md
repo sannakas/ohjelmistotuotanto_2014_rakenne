@@ -1,12 +1,8 @@
 ## Käyttöliittymä
 
-* listaa käyttöliittymän näkymät
-* niiden keskinäiset suhteet
-* kuvaile mitä näkymässä tapahtuu / tehdään
 
-Millaisia näkymiä järjestelmässä on? Miten toiminnallisuuksia niissä 
-on?
-Kuvaile jokainen näkymä ja mihin sitä käytetään 
+* niiden keskinäiset suhteet
+
 Kuvaile siirtymät käyttöliittymänäkymien välillä
 
 --
