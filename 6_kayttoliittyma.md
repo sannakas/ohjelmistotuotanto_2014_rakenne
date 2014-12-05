@@ -1,12 +1,5 @@
 ## Käyttöliittymä
 
-
-* niiden keskinäiset suhteet
-
-Kuvaile siirtymät käyttöliittymänäkymien välillä
-
---
-
 #### Näkymät ja kuvaukset
 
 ![kayttoliittyma](käyttöliittymä_1.png)
