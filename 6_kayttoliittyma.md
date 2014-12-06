@@ -8,13 +8,13 @@
 
 #### Näkymien väliset suhteet
 
-1. Kirjautumisruutu </br>
+**1. Kirjautumisruutu </br>**
 	* Vihreä nuoli-näppäin yläkulmassa sulkee sovelluksen tässä näkymässä
 	* Kirjautumistietojen täytyttyä Submit-näppäin ohjaa
 		* Opettajan aloitusnäkymään 2. i)
 		* Opiskelijan aloitusnäkymään 2. ii)
 
-2. Aloitusnäkymät </br>
+**2. Aloitusnäkymät </br>**
 	1. Opettajan paikannettavuusvalinta
 		* Vihreä nuoli-näppäin yläkulmassa sulkee sovelluksen tässä näkymässä
 		* Available -valinta sallii opettajan paikannuksen
@@ -28,7 +28,7 @@
 		* Opettajaa (= sallinut paikannuksen) haettaessa hakupalkin avulla siirrytään karttanäkymään 3. ii)
 		* Opettajaa (= kieltänyt paikannuksen) haettaessa hakupalkin avulla siirrytään virhenäkymään 4. i)
 
-3. Karttanäkymät </br>
+**3. Karttanäkymät </br>**
 	1. Luokan paikannusnäkymä </br>
 		* Vihreä nuoli-näppäin yläkulmassa palauttaa aloitusnäkymään tässä näkymässä 
 		* Yläreunan valitsimen avulla siirrytään koulurakennuksen kerroksia vastaavien karttojen välillä
@@ -39,7 +39,7 @@
 		* Yläreunan valitsimen avulla siirrytään koulurakennuksen kerroksia vastaavien karttojen välillä
 		* Hakupalkin kautta siirrytään samalla tavalla kuin aloitusnäkymässä
 
-4. Virhenäkymät </br>
+**4. Virhenäkymät </br>**
 	1. Opettajan paikannus ei ole sallittu </br>
 		* Vihreä nuoli-näppäin yläkulmassa palauttaa aloitusnäkymään tässä näkymässä
 		* Hakupalkin kautta siirrytään samalla tavalla kuin aloitusnäkymässä
