@@ -10,7 +10,7 @@ Olemme tyytyväisiä projektityöskentelyymme ja lopputulokseen. Kiteytettynä p
 
 Git-versionhallintamenetelmä tuli tutuksi kurssin aikana ja totesimme sen hyväksi tavaksi työstää samoja dokumentteja yhteisesti. Olemme molemmat käyttäneet sitä myös kurssin ulkopuolella muissa projekteissa.
 
-###### Tunnit
+##### Tunnit
 
 Päivämäärä | Tunnit | Nimi 
 -----------|--------|-------
