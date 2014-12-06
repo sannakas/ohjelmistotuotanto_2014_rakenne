@@ -1,28 +1,5 @@
 ## Vaatimukset 
 
-* Kuvaile tänne funktionaaliset ja ei-funktionaaliset vaatimukset
-* Funktionaaliset vaatimukset
-  * Tarkentavat käyttötapauksia
-* Ei-funktionaaliset vaatimukset
-  * Esim käytettävyyteen, tietoturvaan, tehokkuuteen, skaalautuvuuteen, hintaan ja prosessimalliin liittyvät vaatimukset
-* **Muista esittää vaatimukset jäljitettävässä muodossa, yksiselitteisesti**
-* Keskeinen tapa (erityisesti ei-funktionaalisiin vaatimuksiin) yksiselitteisille kuvauksille on vaatimusten **mitattavuus** (software metrics)
-
-
-pohdittavaa
-* kuinka taata järjestelmän helppokäyttöisyys?
-* kuinka taata järjestelmän luotettavuus? Listaa mahdolliset 
-järjestelmävirheet ja kuinka niistä toivutaan
-* järjestelmälläsi on paljon käyttäjiä, kuinka taata että 
-järjestelmässä on riittävästi tehoja? Millaisia metriikkoja 
-käyttäisit?
-
-Mitä muita ei-funktionaalisia vaatimuksia olisi syytä kuvata?
-Millaisia metriikkoja käyttäisit, jotta vaatimukset ovat 
-riittävän yksiselitteisiä?
-
---
-
 #### Funktionaaliset vaatimukset
 
 Seuraavissa taulukoissa on kuvattu toiminnalliset vaatimukset, jotka liittyvät jokaiseen käyttötapaukseen yleisesti. Lisäksi jokaiselle käyttötapaukselle on listattu omat toiminnalliset vaatimukset. Tavoitteena on ollut kuvata millaisia ominaisuuksia järjestelmältä odotetaan erilaisissa käyttötapauksissa, jotta sitä olisi mahdollisimman helppo käyttää ilman ongelmia.
