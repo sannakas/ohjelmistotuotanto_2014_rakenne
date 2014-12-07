@@ -23,4 +23,6 @@ Päivämäärä | Tunnit | Nimi
 02.12.2014 | 2		| Hanna
 03.12.2014 | 2	    | Hanna
 05.12.2014 | 3		| Sanna
+05.12.2014 | 3		| Hanna
 06.12.2014 | 1		| Sanna
+
